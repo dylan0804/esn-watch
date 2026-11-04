@@ -3,7 +3,7 @@ name: ESN watcher
 on:
   schedule:
     # Every 15 min, offset from :00 (GitHub's busiest minute, when runs get delayed or dropped).
-    - cron: "7,22,37,52 * * * *"
+    - cron: "8,23,38,53 * * * *"
   workflow_dispatch:
     inputs:
       mode:
