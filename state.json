@@ -2,6 +2,13 @@
   "version": 1,
   "initialized": true,
   "events": {
+    "pretix-esnstuttgart-3kf9u-0@tickets.esn-germany.de": {
+      "title": "Soup Tasting",
+      "start": "2026-11-24T18:00:00+01:00",
+      "url": "",
+      "first_seen": "2026-11-05T11:10:47.726779858Z",
+      "sale_alerted": "0001-01-01T00:00:00Z"
+    },
     "pretix-esnstuttgart-3uvxf-0@tickets.esn-germany.de": {
       "title": "Freudenstadt City Trip",
       "start": "2026-11-08T10:00:00+01:00",
