@@ -230,7 +230,6 @@
       "sale_alerted": "0001-01-01T00:00:00Z"
     }
   },
-  "fail_streak": 1,
-  "last_error": "Get \"https://tickets.esn-germany.de/esnstuttgart/events/ical/?locale=en\": dial tcp 91.99.160.138:443: connect: connection refused",
+  "fail_streak": 0,
   "touched": "2026-11-04T12:00:34.454621757Z"
 }
