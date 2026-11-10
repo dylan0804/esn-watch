@@ -108,7 +108,8 @@
       "start": "2026-11-29T07:30:00+01:00",
       "url": "",
       "first_seen": "2026-11-05T14:31:17.581758343Z",
-      "sale_alerted": "0001-01-01T00:00:00Z"
+      "sale_alerted": "0001-01-01T00:00:00Z",
+      "gone": true
     },
     "pretix-esnstuttgart-fg3hz-0@tickets.esn-germany.de": {
       "title": "Goodbye Summer Hike to Schönbuchturm",
