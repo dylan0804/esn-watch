@@ -36,7 +36,8 @@
       "start": "2026-11-19T15:00:00+01:00",
       "url": "",
       "first_seen": "2026-11-10T12:31:02.311588025Z",
-      "sale_alerted": "0001-01-01T00:00:00Z"
+      "sale_alerted": "0001-01-01T00:00:00Z",
+      "gone": true
     },
     "pretix-esnstuttgart-8b9ey-0@tickets.esn-germany.de": {
       "title": "Bar Hopping",
