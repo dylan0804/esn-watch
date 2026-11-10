@@ -31,6 +31,13 @@
       "first_seen": "2026-11-04T12:00:34.454621757Z",
       "sale_alerted": "0001-01-01T00:00:00Z"
     },
+    "pretix-esnstuttgart-7kqkh-0@tickets.esn-germany.de": {
+      "title": "Letters, Craft and Coffee",
+      "start": "2026-11-19T15:00:00+01:00",
+      "url": "",
+      "first_seen": "2026-11-10T12:31:02.311588025Z",
+      "sale_alerted": "0001-01-01T00:00:00Z"
+    },
     "pretix-esnstuttgart-8b9ey-0@tickets.esn-germany.de": {
       "title": "Bar Hopping",
       "start": "2026-10-21T18:30:00+02:00",
