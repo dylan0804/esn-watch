@@ -204,6 +204,13 @@
       "sale_alerted": "0001-01-01T00:00:00Z",
       "gone": true
     },
+    "pretix-esnstuttgart-rdjtl-0@tickets.esn-germany.de": {
+      "title": "International Tapas Event",
+      "start": "2026-11-28T14:00:00+01:00",
+      "url": "",
+      "first_seen": "2026-11-11T11:01:10.18926874Z",
+      "sale_alerted": "0001-01-01T00:00:00Z"
+    },
     "pretix-esnstuttgart-rpzp8-0@tickets.esn-germany.de": {
       "title": "🎀 Bracelet Making Workshop",
       "start": "2026-11-11T16:00:00+01:00",
