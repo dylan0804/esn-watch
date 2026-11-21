@@ -54,6 +54,13 @@
       "sale_alerted": "0001-01-01T00:00:00Z",
       "gone": true
     },
+    "pretix-esnstuttgart-9ghjd-0@tickets.esn-germany.de": {
+      "title": "🍁 Autumn Art Workshop 🎨",
+      "start": "2026-11-28T15:00:00+01:00",
+      "url": "",
+      "first_seen": "2026-11-21T16:01:07.247839758Z",
+      "sale_alerted": "0001-01-01T00:00:00Z"
+    },
     "pretix-esnstuttgart-ad3vj-2070@tickets.esn-germany.de": {
       "title": "Stammtisch",
       "start": "2026-10-28T19:30:00+01:00",
