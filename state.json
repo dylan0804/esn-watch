@@ -260,6 +260,13 @@
       "first_seen": "2026-11-05T13:20:46.007761241Z",
       "sale_alerted": "0001-01-01T00:00:00Z"
     },
+    "pretix-esnstuttgart-u8bgb-0@tickets.esn-germany.de": {
+      "title": "Speed Friending",
+      "start": "2026-12-04T17:00:00+01:00",
+      "url": "",
+      "first_seen": "2026-11-25T10:10:46.751918846Z",
+      "sale_alerted": "0001-01-01T00:00:00Z"
+    },
     "pretix-esnstuttgart-uzu8q-0@tickets.esn-germany.de": {
       "title": "Nördlingen City Trip",
       "start": "2026-11-21T08:40:00+01:00",
