@@ -311,6 +311,13 @@
       "first_seen": "2026-11-16T11:50:50.005822743Z",
       "sale_alerted": "0001-01-01T00:00:00Z"
     },
+    "pretix-esnstuttgart-ylghn-0@tickets.esn-germany.de": {
+      "title": "Contemporary dance workshop",
+      "start": "2026-12-05T15:15:00+01:00",
+      "url": "",
+      "first_seen": "2026-11-25T13:01:08.66588945Z",
+      "sale_alerted": "0001-01-01T00:00:00Z"
+    },
     "pretix-esnstuttgart-zbvkj-0@tickets.esn-germany.de": {
       "title": "Karaoke Night at Boddschi",
       "start": "2026-10-29T20:00:00+01:00",
